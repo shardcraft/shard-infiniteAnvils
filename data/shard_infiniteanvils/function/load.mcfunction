@@ -1,0 +1,1 @@
+schedule function shard_infiniteanvils:main 1s
